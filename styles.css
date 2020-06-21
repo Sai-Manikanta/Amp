@@ -1,5 +1,9 @@
 .container {
   color: crimson;
   font-size: 3rem;
+<<<<<<< HEAD
   border: 2px solid red;
+=======
+  background-color: #f1f1f1;
+>>>>>>> test-d
 }
