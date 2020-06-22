@@ -18,3 +18,9 @@ h2 {
   color: #fff;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
+
+img {
+  max-width: 90%;
+  display: block;
+  margin: 10px auto;
+}
