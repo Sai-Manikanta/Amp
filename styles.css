@@ -10,3 +10,11 @@ h2 {
   font-size:3rem;
   border: 2px solid red;
 }
+
+.devoloper {
+  padding: 2em;
+  text-align: center;
+  background-color: #3366ff;
+  color: #fff;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
